@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad news from the countrey, or, A true and full relation of the late wonderful floods in divers parts of England with the great destruction of several persons, the carrying away of houses, mills, cattel &amp;c. ... : which may serve as a preparative to the approaching general fast, that all may be affected with, and humble their souls under the hands of Providence ...</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59214</idno><idno type="EEBO-CITATION">9602523</idno>
+  <idno type="VID">43796</idno>
+  <idno type="EEBO-PROQUEST">2264203320</idno>
+  
+            <idno type="STC">Wing S256</idno>
+            <idno type="STC">ESTC R26995</idno>
+            <idno type="OCLC">09602523</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43796)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad news from the countrey, or, A true and full relation of the late wonderful floods in divers parts of England with the great destruction of several persons, the carrying away of houses, mills, cattel &amp;c. ... : which may serve as a preparative to the approaching general fast, that all may be affected with, and humble their souls under the hands of Providence ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: Englands wonder, or, The late strange floods &amp;c.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Floods --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43796:1"/>
+            <p>Sad News from the Countrey, OR A TRUE and FULL RELATION OF THE LATE Wonderful Floods In divers Parts of ENGLAND.</p>
+            <p>With the great Destruction of several Persons, the Carrying away of Houses, Mills, Cattel, <hi>&amp;c.</hi>
+            </p>
+            <p>Besides the vast Damage done to the Growing Corn, by Wash<g ref="char:EOLhyphen"/>ing it up by the Roots out of the Ground, which occasions the High Prizes thereof.</p>
+            <p>Together with an Account of the late Extraordinary Tides i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the River of <hi>Thames:</hi> And the Breaking out of the New River near <hi>Islington.</hi>
+            </p>
+            <p>Which may serve as a Preparative to the Approaching General Fast, that all may be Affected with, and Humble their Souls under the Hands of Providence; as well to Divert this Threatning Visitation of Unseasonable VVeather, as to Im<g ref="char:EOLhyphen"/>plore a Blessing on the Nation.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43796:2"/>
+            <pb n="3" facs="tcp:43796:2"/>
+            <head>Englands Wonder, OR The late strange Floods, &amp;c</head>
+            <p>IN vain do the Busie Philosopher, or more pretended Astro<g ref="char:EOLhyphen"/>loger, think by Groping into the Secrets of Nature, Infal<g ref="char:EOLhyphen"/>libly to Assign either the prime Causes or exact Times of excessive Heats, Infectious Airs, prodigious Floods, and such like wonderful Alterations happening in the <hi>Macrocosm,</hi> or State of the Great World; since Truth it self in its Sacred Ora<g ref="char:EOLhyphen"/>cles assures us: That the Almighty God (that <hi>Natura Naturans</hi> and <hi>Eus Eutiun,</hi> as some of the wisest Heathens have called Him) can at his Omnipotent pleasure, <hi>restrain the sweet Influ<g ref="char:EOLhyphen"/>ences of the Pleiad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and loo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Bands of Orion.</hi> 'Tis He, and He alone, that for our Sins, by His Over-ruling Providence, sometimes <hi>makes the Heavens as Brass,</hi> parching the Ground with Scorching Droughts, and at other times <hi>opens the Bottles of Heaven,</hi> to wash away the hopeful Fruits of the Teeming Earth with Deluges of Water. And certainly that Man (if any such deserve that Name) must be exceeding Stupid, or very Care<g ref="char:EOLhyphen"/>less that does not once perceive and lay to Heart the late most Unseasonable weather, wherewith our Climate hath been Visi<g ref="char:EOLhyphen"/>ted; wherein such continual Rains, and extraordinary Floods have happened, as few Mens Memories can Parrallel, as by the
+<pb n="4" facs="tcp:43796:3"/> Joynt Testimonses ensuing, faithfully Extracted from Letters from several Parts, may abundantly Appe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>I.</hi> A Letter from <hi>Tiverton</hi> in <hi>De<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>onshire,</hi> Dated <date>the 14th. of <hi>January</hi> Instant.</date>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>AFter an Account of the Receipt of your last, and Acquaint<g ref="char:EOLhyphen"/>ing you that I have fully performed your Desires there<g ref="char:EOLhyphen"/>in, as by the enclosed Note you may perceive. I have little more to Trouble you with, except it be the sad News of the Ill weather we have suffered under; of Late, such extraordinary Rains having successively happened, that for near Three weeks time we have had continual Floods, and those so High and Vio<g ref="char:EOLhyphen"/>lent, that they have caused no little Damage. In particular, our Rivers has Overflown so far as to Sweep away several small Dwelling Houses, Hay-reeks, Bams, and Out-Houses in the Neighbouring Villages; But at and about <hi>Hetherley,</hi> we hear the Inundation has been more furious, Destroying several Cat<g ref="char:EOLhyphen"/>tel suddenly in Low-Lands, and some Persons that endeavoured to preserve them. There is scarce any Passage or Going Abroad to Markets, without danger of ones Life the Waters are so High: The Corn which was generally very Forward and Hope<g ref="char:EOLhyphen"/>ful, is by these Violent Showres and Floods, washt out of the Ground, and like in a great measure to be Destroyed; so that Wheat is at present at Eight Shillings the Bushels with us, and like to Rise higher daily: The Lord in Mercy put a stop to this unseasonable Weather, to whose protection I Commit you, and Rest,</p>
+                  <closer>
+                     <signed>Yours, T. H.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>II.</hi> Extracted from a Letter from <hi>Gainesbrough,</hi> in <hi>Lincolnshire.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Could not Write to you sooner, for the Water has been so excessive High round us, that no Carriers could pass, and the Bearer who now Ventures, will Run a great Hazard with
+<pb n="5" facs="tcp:43796:3"/> his Horses; and be forced to go far about in many places. The River <hi>Humber</hi> has overflow'd all the Country adjacent, up to<g ref="char:EOLhyphen"/>wards <hi>Sherborn,</hi> and almost as far as <hi>Laeds,</hi> and swept away several Bridges and Mills over small Rivers that fall into it. The eldest man living hereabouts, never knew so wet a time, and of so long continuance: Corn Rises very extreamly by reason hereof, being much damnified here, and (as we are informed) in most other places, nor do our Sheep escape, but dye now in great numbers of the Rot, by reason of this wet Weather; poor <hi>England</hi> has smarted severely with a dread<g ref="char:EOLhyphen"/>ful Pestilence; a lamentable Fire, and no small Calamities of War. Oh! may the merciful hand of Providence, pre<g ref="char:EOLhyphen"/>serve us now from Famine, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Loving Friend, <hi>T. R.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>III.</hi> Taken out of a Letter from <hi>Town Maling</hi> in <hi>Kent.</hi> Dated <date>the 19th. of the 11th. Moneth called, <hi>January.</hi>
+                     </date>
+                  </head>
+                  <opener>
+                     <salute>John C.</salute>
+                  </opener>
+                  <p>I Had some thoughts of seeing thee in <hi>London</hi> before this time, but plainly the weather has been so bad for many days, That I did not think it convenient to undertake a Jour<g ref="char:EOLhyphen"/>ney. We have had almost continual Rains for some time, and higher Floods than any I can remember to have seen: All a<g ref="char:EOLhyphen"/>long almost from <hi>Tunbridge</hi> to <hi>Maiastone,</hi> the River has over<g ref="char:EOLhyphen"/>flow'd its Banks, and that further than ordinary, Tis thought that Corn on the Ground will receive much prejudice here<g ref="char:EOLhyphen"/>by; so that Wheat is already raised by people in its price pretty much in several Markets near us: Some Friends lately come from <hi>Chichester,</hi> into these parts say, That the Waters are thereabouts very much broken out likewise, and have done hurt in several parts of <hi>Sussex,</hi> bearing away Bridges and Cattel sometimes; And we hear the like from other places, So that tis feared the thing may be pretty General, and cause a
+<pb n="6" facs="tcp:43796:4"/> Scarcity of Bread and other Provisions for the Sustenance of man: Certainly the Lord hath a Controversie with sin, and since Pride and Fulness of Bread, have been Sins so rise amongst the People, they cannot but acknowledge it Just, if now they are afflicted with Poverty, and Leanness of Teeth, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <signed>S. K.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>IV.</hi> Out of a Letter from <hi>Downham,</hi> in <hi>Norfolk.</hi>
+                  </head>
+                  <opener>
+                     <salute>Cozen,</salute>
+                  </opener>
+                  <p>IN my last, I gave you some Account of great Ra<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns that had happened of late here, but now we have far greater Floods then before; The Tydes coming in, meeting with vast Land-floods, have swel'd all our Rivers so high, that they scorn the an<g ref="char:EOLhyphen"/>cient Confinement of their Banks, and run with an Enfranchiz'd Current over our Grounds, with as much violence and impe<g ref="char:EOLhyphen"/>tuosity, As a Vulgar Rabb<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, getting to a Head in a Sediti<g ref="char:EOLhyphen"/>ous Tumult, when they bear down all Laws before them, and mad, for they know not what will be kept within Bounds of Reason or Moderation. Sure I am this unwelcome Inroad of waters, makes us very apprehensive of a thin Harvest; We wait with a longing Impatience to hear some Results from that Illustrious <hi>Great Councel,</hi> now Convened, when they please to make any thing publick, pray fail not to make your Coun<g ref="char:EOLhyphen"/>trey Friends happy with an Importment. May the All pow<g ref="char:EOLhyphen"/>erful God, put a period to this unseasonable Weather; banish all Clouds from our Horizon: Bless that Honourable Assem<g ref="char:EOLhyphen"/>bly in their Counsels and proceedings, for the Honour of his Majesty, and wellfare of the Nation, and keep in his Love and Protection, your self and Family, together with</p>
+                  <closer>
+                     <signed>Your most affectionate Kins<g ref="char:EOLhyphen"/>man, <hi>G. H.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="7" facs="tcp:43796:4"/>
+                  <head>By a Letter from a Gentlemans Baily in <hi>Worcestershire,</hi> to his Master in <hi>London.</hi>
+                  </head>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>ACcording to your Commands in your last, by Mr. <hi>T. G.</hi> Wherein you order me to give an Account, How your Concerns stand, and whether the late wet Season hath done you any Damage; I must with Sorrow acquaint, That you are like to receive very considerable Prejudice by i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, both in Relation to your Cattel and Corn; for of the 350. Sheep you left, when you went up to <hi>London,</hi> notwithstand<g ref="char:EOLhyphen"/>ing all the car<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> could possibly be taken, or means used, I cannot assure you that there are 50. remaining Sound. But, Sir! this sad affliction hath not lighted only upon you; all your Neighbours, and the Country round, have shared in the like mishap; and tis feared it is a National Calamity. The Waters are exceeding High, and so have continued several Weeks, for as soon as one Flood begins to Ebb, or Abate, the Clouds pour down more Rain; and Reinforce the De<g ref="char:EOLhyphen"/>luge with fresh Inundations. The Corn was generally come up very well; but 'tis wished now it were not so forward, for 'tis much feared, it will be quite Spoiled with those in<g ref="char:EOLhyphen"/>ordinate Rains. I was in obedience to your Command, to wait on Sir <hi>J. K.</hi> who ordered me to acquaint you, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Your most Faithful,</hi> &amp;c.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To these several Country Instances we may add the Experien<g ref="char:EOLhyphen"/>ces of the City and Places adjacent, the Towns having sweld of late with such extraordinary Tide as have not been known these 30 years, flowing into peoples houses a story high or more, and thereby doing much damage at <hi>Greenwich, Wapping, Southwark, Westminster</hi> and most Towns Westward as far as <hi>Brainford</hi> and beyond; As also how the <hi>New River</hi> (that most excellent Monument of the Renowned <hi>Middletons</hi> publique Spirited Generosity and grand refreshment of this City with it's Silver streams) grew over charged with Water and break<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:43796:5"/> over its Banks came down full tarrens as if it sought re<g ref="char:EOLhyphen"/>venge of the ungrateful Town, yet was at last so gentle that its fury served only to wash Hog-Lane-Alley, and some other place thereabouts, where the Inhabitants were surprized to see their Rooms all overflow'd, and Chairs and Cracles Floating about House like Boats; but these Accidents being obvious and well known, we own't and for Conclusion say.</p>
+            <p>That as the unseasonableness of the weather seem; to threaten us with Scarcity and damage so undoubtedly the Ocean of our sins has brought upon us these Deluges of Water, which will be best dryed up and stopt for the future by Floods of Repentant Tears, for according to the excellent <hi>Du. Bartas.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <l>When from the Clouds Excessive Water spins</l>
+                  <l>Heaven surely weeps for our unwept for sins.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43796:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
